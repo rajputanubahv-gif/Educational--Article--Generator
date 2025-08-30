@@ -1,0 +1,8 @@
+streamlit==1.37.1
+google-generativeai==0.7.2
+langchain==0.2.14
+langchain-community==0.2.12
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+transformers==4.44.2
+reportlab==4.2.2
